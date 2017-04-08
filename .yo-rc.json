@@ -1,0 +1,8 @@
+{
+  "generator-ptz-react": {
+    "promptValues": {
+      "appname": "ptz-react-test",
+      "githubAuthor": "polutz"
+    }
+  }
+}
